@@ -1,0 +1,12 @@
+*.meta
+.vs/
+.vscode/
+Library/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
+Assembly-CSharp.csproj
+shiftDBNotifySample.sln
